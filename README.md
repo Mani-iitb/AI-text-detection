@@ -44,7 +44,7 @@ Each instance includes:
 Evaluation was conducted using a subset of the [TuringBench](https://github.com/Mani-iitb/AI-text-detection/blob/main/all_gpt_train.csv) dataset across the following models:  
 `gpt1`, `gpt2_small`, `gpt2_medium`, `gpt2_large`, `gpt2_xl`, `gpt3`, and `human`.
 
-### 🔎 Task 1: Turing Test (Human vs AI Detection)
+### Task 1: Turing Test (Human vs AI Detection)
 
 | Metric    | Score  |
 | --------- | ------ |
@@ -55,7 +55,7 @@ Evaluation was conducted using a subset of the [TuringBench](https://github.com/
 
 ---
 
-### 🧠 Task 2: Author Attribution (Identifying AI model)
+### Task 2: Author Attribution (Identifying AI model)
 
 | Metric    | Score  |
 | --------- | ------ |
